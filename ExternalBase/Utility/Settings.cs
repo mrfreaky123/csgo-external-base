@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ExternalBase.Utility
+{
+    class Settings
+    {
+        public class Triggerbot
+        {
+            public static bool enabled = false;
+            public static int delay = 0;
+        }
+
+        public class Bunnyhop
+        {
+            public static bool enabled = false;
+            public static int delay = 0;
+        }
+    }
+}

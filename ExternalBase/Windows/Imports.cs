@@ -17,5 +17,8 @@ namespace ExternalBase.Windows
 
         [DllImport("kernel32.dll")]
         public static extern bool WriteProcessMemory(int hProcess, int lpBaseAddress, byte[] buffer, int size, out int lpNumberOfBytesWritten);
+
+        [DllImport("user32.dll")]
+        public static extern short GetAsyncKeyState(System.Windows.Forms.Keys vKey);
     }
 }

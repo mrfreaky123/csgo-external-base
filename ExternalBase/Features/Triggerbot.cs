@@ -17,7 +17,7 @@ namespace ExternalBase.Features
             {
                 Thread.Sleep(1);
        
-                if (Structs.LocalPlayer.isEnemyInCrosshair && Settings.Triggerbot.enabled)
+                if (Structs.LocalPlayer.isEnemyInCrosshair && Settings.Triggerbot.enabled && Checks.IsKeyPushedDown(Settings.Triggerbot.key))
                 {
                     if (Settings.Triggerbot.delay > 0) Thread.Sleep(Settings.Triggerbot.delay);
                     Actions.Shoot();

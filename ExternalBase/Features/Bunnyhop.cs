@@ -16,7 +16,7 @@ namespace ExternalBase.Features
             {
                 Thread.Sleep(1);
 
-                if (!Structs.LocalPlayer.onGround && Settings.Bunnyhop.enabled)
+                if (Structs.LocalPlayer.onGround && Settings.Bunnyhop.enabled && Checks.IsKeyPushedDown(Settings.Bunnyhop.key))
                 {
                     if (Settings.Bunnyhop.delay > 0) Thread.Sleep(Settings.Bunnyhop.delay);
 

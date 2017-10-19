@@ -6,3 +6,11 @@ c:\users\henry\documents\visual studio 2015\Projects\ExternalBase\ExternalBase\o
 c:\users\henry\documents\visual studio 2015\Projects\ExternalBase\ExternalBase\obj\Debug\ExternalBase.pdb
 c:\users\henry\documents\visual studio 2015\Projects\ExternalBase\ExternalBase\obj\Debug\ExternalBase.Menu.resources
 c:\users\henry\documents\visual studio 2015\Projects\ExternalBase\ExternalBase\obj\Debug\ExternalBase.csproj.GenerateResource.Cache
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\bin\Debug\ExternalBase.exe.config
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\obj\Debug\ExternalBase.exe
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\obj\Debug\ExternalBase.pdb
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\bin\Debug\ExternalBase.exe
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\bin\Debug\ExternalBase.pdb
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\obj\Debug\ExternalBase.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\obj\Debug\ExternalBase.Menu.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\ExternalBase\csgo-external-base\ExternalBase\obj\Debug\ExternalBase.csproj.GenerateResource.Cache

@@ -21,5 +21,10 @@ namespace ExternalBase.Utility
             else
                 return false;
         }
+
+        public static bool IsKeyPushedDown(System.Windows.Forms.Keys vKey)
+        {
+            return 0 != (Windows.Imports.GetAsyncKeyState(vKey) & 0x8000);
+        }
     }
 }
